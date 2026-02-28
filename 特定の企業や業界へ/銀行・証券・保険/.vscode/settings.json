@@ -1,0 +1,6 @@
+{
+  "markdown-pdf.orientation": "landscape",
+  "markdown-pdf.displayHeaderFooter": true,
+  "markdown-pdf.margin.top": "1cm",
+  "markdown-pdf.margin.bottom": "1cm"
+}
